@@ -4,6 +4,8 @@ an https server to serve static site or single page application. (it's a modifie
  
 Make sure To have a folder named "ssl" in the server directory with these following files : 
 
-*private.key
-*certificate.crt
-*ca_bundle.crt
+1.private.key 
+
+2.certificate.crt
+
+3.ca_bundle.crt
